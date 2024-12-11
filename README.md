@@ -1,6 +1,6 @@
 # Favorite Companies - Chrome Extension
 
-A Chrome extension that helps you save and organize companies you're interested in working for. Save companies directly from LinkedIn, including their descriptions and logos, and export your list whenever needed.
+A Chrome extension that helps you save and organize companies you want to have quick access to on LinkedIn. Save companies directly from LinkedIn, including their descriptions and logos, and export your list whenever needed.
 
 ## Features
 
